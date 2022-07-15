@@ -1,0 +1,6 @@
+export { ReactComponent as GoogleLogo } from 'assets/color-icons/google.svg'
+export { ReactComponent as MicrosoftLogo } from 'assets/color-icons/microsoft.svg'
+export { ReactComponent as Visa } from 'assets/color-icons/visa.svg'
+export { ReactComponent as MasterCard } from 'assets/color-icons/mastercard.svg'
+export { ReactComponent as Discover } from 'assets/color-icons/discover.svg'
+export { ReactComponent as Amex } from 'assets/color-icons/amex.svg'
