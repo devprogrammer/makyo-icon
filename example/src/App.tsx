@@ -1,13 +1,15 @@
-import React from 'react'
+import React from 'react';
+import './App.css';
+import IconList from "./IconList";
 
-import { Icon } from '@makyoapp/makyo-icon'
-
-const App = () => {
+function App() {
   return (
-    <div>
-      <Icon.Accordion16 />
+    <div className="App">
+      <header className="App-header">
+        <IconList />
+      </header>
     </div>
   );
 }
 
-export default App
+export default App;
